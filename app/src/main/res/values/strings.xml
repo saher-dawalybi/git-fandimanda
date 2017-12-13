@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConstraientsDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_id">Location:</string>
+    <string name="location_name">Turkey</string>
+    <string name="date_id">Data:</string>
+    <string name="image_logo">Logo</string>
+    <string name="Description">DescriptionDescription
+        DescriptionDescriptionDescriptionDescriptionD
+        DescriptionDescriptionDescriptionD
+        escriptionDescriptionDescriptionD DescriptionDescriptionDescript
+        ionDescriptionDescriptionDescriptionD DescriptionDescriptionDescription
+        DescriptionDescriptionDescriptionD</string>
+    <string name="dec_13_2017">DEC 13.2017</string>
+
+
+</resources>
