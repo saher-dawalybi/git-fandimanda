@@ -5,7 +5,12 @@
     <string name="location_name">Turkey</string>
     <string name="date_id">Data:</string>
     <string name="image_logo">Logo</string>
-    <string name="Description">DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionD</string>
+    <string name="Description">DescriptionDescription
+        DescriptionDescriptionDescriptionDescriptionD
+        DescriptionDescriptionDescriptionD
+        escriptionDescriptionDescriptionD DescriptionDescriptionDescript
+        ionDescriptionDescriptionDescriptionD DescriptionDescriptionDescription
+        DescriptionDescriptionDescriptionD</string>
 
 
 </resources>
